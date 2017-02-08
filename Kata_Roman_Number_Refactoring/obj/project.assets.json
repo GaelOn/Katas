@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "targets": {
+    ".NETStandard,Version=v1.4": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v1.4": []
+  },
+  "packageFolders": {
+    "/Users/gaeldupire/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/gaeldupire/Projects/Kata_Roman_Number_Refactoring/Kata_Roman_Number_Refactoring/Kata_Roman_Number_Refactoring.csproj",
+      "projectName": "Kata_Roman_Number_Refactoring",
+      "projectPath": "/Users/gaeldupire/Projects/Kata_Roman_Number_Refactoring/Kata_Roman_Number_Refactoring/Kata_Roman_Number_Refactoring.csproj",
+      "outputPath": "/Users/gaeldupire/Projects/Kata_Roman_Number_Refactoring/Kata_Roman_Number_Refactoring/obj",
+      "outputType": "NETCore",
+      "originalTargetFrameworks": [
+        "netstandard1.4"
+      ],
+      "frameworks": {
+        "netstandard1.4": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "netstandard1.4": {}
+    }
+  }
+}
